@@ -1,0 +1,13 @@
+train: /home/dslab/Documents/Rooftop detection yolov8/train/images
+val: /home/dslab/Documents/Rooftop detection yolov8/valid/images
+test: /home/dslab/Documents/Rooftop detection yolov8/test/images
+
+nc: 1
+names: ['Rooftop']
+
+roboflow:
+  workspace: daffodil-7feoa
+  project: rooftop-detection-jftsv
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/daffodil-7feoa/rooftop-detection-jftsv/dataset/3
