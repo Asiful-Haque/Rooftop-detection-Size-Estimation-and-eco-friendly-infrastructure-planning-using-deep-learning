@@ -1,0 +1,5 @@
+streamlit==1.27.1
+streamlit-lottie==0.0.5
+ultralytics==8.1.42
+opencv-python==4.8.0.74
+numpy==1.26.4
